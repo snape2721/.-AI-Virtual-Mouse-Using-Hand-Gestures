@@ -1,1 +1,1 @@
-# .-AI-Virtual-Mouse-Using-Hand-Gestures
+# AI-Virtual-Mouse-Using-Hand-Gestures
